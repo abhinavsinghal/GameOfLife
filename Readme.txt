@@ -20,5 +20,4 @@ Once the program compiles successfully, nunit.exe can be attached to the dll and
 
 Keeping with the object oriented paradigm, two classes Map and Cell have been used.
 Map stores information related to the grid used to generate the Game of Life.
-Cell stores information related to a cell within the grid i.e. the x,y co-ordinates and also the value 
-for that cell i.e. whether the cell is dead or alive.
+Cell stores information related to a cell within the grid i.e. the x,y co-ordinates and also the value for that cell i.e. whether the cell is dead or alive.
